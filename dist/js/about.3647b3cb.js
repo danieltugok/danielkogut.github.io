@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdanielkogut_github_io"]=self["webpackChunkdanielkogut_github_io"]||[]).push([[443],{7381:function(n,u,t){t.r(u),t.d(u,{default:function(){return h}});var i=t(3396);const a={class:"about"},e=(0,i._)("h1",null,"This is an about page",-1),o=[e];function r(n,u){return(0,i.wg)(),(0,i.iD)("div",a,o)}var s=t(89);const c={},l=(0,s.Z)(c,[["render",r]]);var h=l}}]);
+//# sourceMappingURL=about.3647b3cb.js.map
