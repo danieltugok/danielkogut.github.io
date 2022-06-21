@@ -12,7 +12,8 @@ cd dist
 # if you are deploying to a custom domain
 # echo 'www.danieltugok.github.io' > CNAME
 
-# git init
+ 
+git init
 git add -A
 git commit -m 'deploy'
 
